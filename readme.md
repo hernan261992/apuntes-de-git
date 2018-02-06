@@ -1,5 +1,10 @@
 ## Curso Git desde cero
 
+### Zonas de Git
+1. Directorio de trabajo
+2. Area de Preparacion
+3. Directorio Git
+
 ### Flujo de trabajo basico en Git
 1. Modificas una serie de archivos en tu directorio de trabajo.
 2. Preparas los archivos, añadiendolos a tu area de preparacion.
@@ -12,3 +17,4 @@ git config --global user.email jh@gmail.com
 git config --global core.editor nano
 git config --list
 ```
+
