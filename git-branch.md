@@ -1,4 +1,4 @@
-### git branch
+# git branch
 Una rama en Git es simplemente un apuntador movil apuntando a una de los commits.
 
 ## git branch --no-merged
