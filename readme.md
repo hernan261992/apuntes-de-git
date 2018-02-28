@@ -19,4 +19,3 @@ git config --global core.editor nano
 git config --list
 ```
 
-Esta linea se agrego desde un equipo de windows conectando al repositorio local con Github a traves de HTTPS.
